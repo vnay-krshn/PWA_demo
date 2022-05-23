@@ -1,0 +1,20 @@
+{
+    "name":"Demo PWA",
+    "short_name":"Simple PWA app",
+    "start_url":".",
+    "background_color":"green",
+    "theme_color":"#009578",
+    "display":"standalone",
+    "icons":[
+        {
+            "src":"./images/logos/3225183_app_logo_media_popular_social_icon (1).png",
+            "sizes":"64x64",
+            "type":"image/png"
+        },
+        {
+            "src":"./images/logos/3225183_app_logo_media_popular_social_icon.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        }
+    ]
+}
